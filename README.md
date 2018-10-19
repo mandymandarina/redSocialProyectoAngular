@@ -1,6 +1,6 @@
 # RED SOCIAL: Easy Food
 
-![replica](/src/assets/img/logo.png)
+![whatsapp image 2018-10-19 at 12 20 10](https://user-images.githubusercontent.com/39128913/47227590-964ebe00-d399-11e8-9faa-eafd5697d402.jpeg)
 
 ¿Siempre quieres probar nuevas recetas y sorprender con nuevos platos?, ¿Te gusta buscar recetas por internet?, ¿crees que las recetas que encuentras son muy complicadas, y no tienes cómo hacer las preguntas que te surgen?, ¿te gustaría poder compartir tus recetas  con otras personas?  
 Hola, ¿cómo están?, somos estudiantes de Laboratoria y les queremos presentar la app Easyfood. 

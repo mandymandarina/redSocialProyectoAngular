@@ -20,7 +20,8 @@ export class PaginaPerfilComponent implements OnInit {
   mobileQuery:  MediaQueryList;
   items:any;
   */
- //@Input() photoUrl: string;
+ //@Input() photoUrl: strin
+
  //@Input() users: string;
 
   user: any;
